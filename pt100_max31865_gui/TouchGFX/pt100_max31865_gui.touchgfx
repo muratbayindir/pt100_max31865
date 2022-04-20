@@ -21,17 +21,16 @@
             "Name": "dynamicGraph",
             "Width": 800,
             "Height": 480,
-            "DataSeed": 1160154083,
+            "DataSeed": 299189149,
             "NumberOfValues": 100,
-            "MaxY": 300.0,
-            "MinY": -300.0,
+            "MaxY": 100.0,
             "Precision": "0.1",
             "LastIndex": 99,
             "XAxisScale": 1.0,
             "InsertRandomValues": true,
             "LabelSizeTop": 10,
             "LabelSizeBottom": 10,
-            "LabelSizeLeft": 50,
+            "LabelSizeLeft": 40,
             "LabelSizeRight": 10,
             "PaddingTop": 10,
             "PaddingBottom": 10,
@@ -41,7 +40,7 @@
             "GraphDrawers": [
               {
                 "Type": "LineDrawer",
-                "LineWidth": 4,
+                "LineWidth": 2,
                 "FileNameImage": "",
                 "Color": {
                   "Red": 20,
@@ -57,29 +56,19 @@
                 "Green": 151,
                 "Blue": 197
               },
-              "Interval": 60.0,
-              "LineWidth": 2
-            },
-            "MinorYAxisGrid": {
-              "Type": "GraphGrid",
-              "Color": {
-                "Red": 20,
-                "Green": 151,
-                "Blue": 197
-              },
               "Interval": 10.0,
               "LineWidth": 1
             },
             "YAxisLabel": {
               "Type": "GraphLabel",
-              "Interval": 60.0,
+              "Interval": 10.0,
               "DecimalSeparator": "Point",
               "TextColor": {
                 "Red": 20,
                 "Green": 151,
                 "Blue": 197
               },
-              "TextId": "__SingleUse_ZRYI",
+              "TextId": "__SingleUse_DWP6",
               "TextRotation": "0",
               "Position": "Left"
             }

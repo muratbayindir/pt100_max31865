@@ -119,6 +119,7 @@
                   <listOptionValue builtIn="false" value="C:/git/STM32F469-dk/stm32f469i_disco/STM32F469I-DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                   <listOptionValue builtIn="false" value="C:/git/stm32f469i_disco/STM32F469I-DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                   <listOptionValue builtIn="false" value="D:/Workspaces/stm32/pt100_max31865_gui/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
+                  <listOptionValue builtIn="false" value="D:/Workspaces/stm32/pt100_murat/pt100_max31865_gui/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                 </option>
                 <inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.1690517566" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
                   <additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
@@ -249,6 +250,7 @@
                   <listOptionValue builtIn="false" value="C:/git/STM32F469-dk/stm32f469i_disco/STM32F469I-DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                   <listOptionValue builtIn="false" value="C:/git/stm32f469i_disco/STM32F469I-DISCO/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                   <listOptionValue builtIn="false" value="D:/Workspaces/stm32/pt100_max31865_gui/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
+                  <listOptionValue builtIn="false" value="D:/Workspaces/stm32/pt100_murat/pt100_max31865_gui/Middlewares/ST/touchgfx/lib/core/cortex_m4f/gcc"/>
                 </option>
                 <inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input.129321398" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.input">
                   <additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>

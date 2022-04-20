@@ -12,7 +12,7 @@ enum LANGUAGES
 
 enum TEXTS
 {
-    T___SINGLEUSE_ZRYI,
+    T___SINGLEUSE_DWP6,
     NUMBER_OF_TEXT_KEYS
 };
 
